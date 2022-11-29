@@ -27,9 +27,9 @@ jsproxy_config({
       },
     },
     'mysite': {
-      label: '当前站点',
+      label: '新加坡节点',
       lines: {
-        [location.host]: 1,
+        'nakamotosatoshi.cf:443': 1,
       }
     },
     // 该节点用于加载大体积的静态资源
