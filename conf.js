@@ -29,7 +29,7 @@ jsproxy_config({
     'mysite': {
       label: '新加坡节点',
       lines: {
-        'nakamotosatoshi.cf:443': 1,
+        nakamotosatoshi.cf:443: 1,
       }
     },
     // 该节点用于加载大体积的静态资源
